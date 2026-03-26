@@ -1,6 +1,6 @@
 # 🗳️ Decentralized Voting System
 
-A blockchain-based voting application that ensures **transparency, security, and tamper-proof elections** using smart contracts.
+A full-stack decentralized voting application built on Ethereum that ensures secure, transparent, and tamper-proof elections using smart contracts.
 
 ---
 
