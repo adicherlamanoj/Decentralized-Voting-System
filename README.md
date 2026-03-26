@@ -85,9 +85,8 @@ npm start
 
 ---
 
-## 🎯 Future Improvements
+## 🎯 Future Improvements 
 
-* Add user authentication
 * Deploy on public testnet (Polygon / Ethereum)
 * Improve UI/UX
 * Add admin dashboard
