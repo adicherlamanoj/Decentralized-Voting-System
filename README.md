@@ -89,7 +89,6 @@ npm start
 
 * Deploy on public testnet (Polygon / Ethereum)
 * Improve UI/UX
-* Add admin dashboard
 
 ---
 
